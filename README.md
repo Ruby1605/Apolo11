@@ -49,10 +49,3 @@ Funcionalidades
 
 	-Legibilidad y mantenimiento del código: 
 	-Comentarios y documentación adecuados: 
-
-Bonus: Creatividad y Funcionalidad Extra 
-
-	-Inclusión de características avanzadas, como simulaciones gráficas, sonidos de cuenta regresiva, 
-	información histórica del Apollo 11, etc.
-	-Mejoras en la experiencia del usuario, como mensajes de error personalizados, opciones de reinicio, 
-	entre otros.
