@@ -1,0 +1,62 @@
+INFO [2024-01-17T19:20:08.008732] : Se pulso boton Start
+ERROR [2024-01-17T19:20:10.190908] : Lanzamiento Cancelado
+INFO [2024-01-17T19:20:37.267889100] : Se pulso boton Start
+INFO [2024-01-17T19:20:50.634496300] : Se inicio la Ignicion
+INFO [2024-01-17T19:20:51.237550100] : Se inicio el Desacople
+INFO [2024-01-17T19:20:51.843123900] : Se inicio el Módulo 
+INFO [2024-01-17T19:20:52.452055400] : Se inicio la órbita
+INFO [2024-01-17T19:22:13.430096300] : Se pulso boton Start
+INFO [2024-01-17T19:22:25.171863400] : Se inicio la Ignicion
+INFO [2024-01-17T19:22:25.783027400] : Se inicio el Desacople
+INFO [2024-01-17T19:22:26.386896500] : Se inicio el Módulo 
+INFO [2024-01-17T19:22:26.992410300] : Se inicio la órbita
+INFO [2024-01-17T21:04:46.806277400] : Se pulso boton Start
+INFO [2024-01-17T21:04:49.238898200] : Se inicio la Ignicion
+INFO [2024-01-17T21:04:49.849451300] : Se inicio el Desacople
+INFO [2024-01-17T21:04:50.459650800] : Se inicio el Módulo 
+INFO [2024-01-17T21:04:51.072584500] : Se inicio la órbita
+INFO [2024-01-17T21:04:52.863706700] : Se pulso boton Start
+INFO [2024-01-17T21:04:55.728539600] : Se inicio la Ignicion
+INFO [2024-01-17T21:04:56.334615700] : Se inicio el Desacople
+INFO [2024-01-17T21:04:56.937934200] : Se inicio el Módulo 
+INFO [2024-01-17T21:04:57.547366700] : Se inicio la órbita
+INFO [2024-01-17T21:05:00.493449200] : Se pulso boton Start
+ERROR [2024-01-17T21:05:01.220791] : Lanzamiento Cancelado
+INFO [2024-01-17T21:05:04.447539300] : Se pulso boton Start
+INFO [2024-01-17T21:05:07.344624500] : Se inicio la Ignicion
+INFO [2024-01-17T21:05:07.947320500] : Se inicio el Desacople
+INFO [2024-01-17T21:05:08.550852200] : Se inicio el Módulo 
+INFO [2024-01-17T21:05:09.154767200] : Se inicio la órbita
+INFO [2024-01-17T21:05:10.948468600] : Se pulso boton Start
+INFO [2024-01-17T21:05:13.793521900] : Se inicio la Ignicion
+INFO [2024-01-17T21:05:14.402205100] : Se inicio el Desacople
+INFO [2024-01-17T21:05:15.006353600] : Se inicio el Módulo 
+INFO [2024-01-17T21:05:15.618486400] : Se inicio la órbita
+INFO [2024-01-17T21:05:18.177954500] : Se pulso boton Start
+INFO [2024-01-17T21:05:21.230532100] : Se inicio la Ignicion
+INFO [2024-01-17T21:05:21.846371700] : Se inicio el Desacople
+INFO [2024-01-17T21:05:22.451810900] : Se inicio el Módulo 
+INFO [2024-01-17T21:05:23.056771500] : Se inicio la órbita
+INFO [2024-01-17T21:05:25.146586400] : Se pulso boton Start
+ERROR [2024-01-17T21:05:25.708567700] : Lanzamiento Cancelado
+INFO [2024-01-17T21:05:28.999601300] : Se pulso boton Start
+INFO [2024-01-17T21:05:31.960537400] : Se inicio la Ignicion
+INFO [2024-01-17T21:05:32.566953700] : Se inicio el Desacople
+INFO [2024-01-17T21:05:33.173787100] : Se inicio el Módulo 
+INFO [2024-01-17T21:05:33.784787800] : Se inicio la órbita
+INFO [2024-01-17T21:05:35.475655900] : Se pulso boton Start
+INFO [2024-01-17T21:05:36.282498200] : Se pulso boton Start
+ERROR [2024-01-17T21:05:36.769484400] : Lanzamiento Cancelado
+INFO [2024-01-17T21:05:37.930667600] : Se inicio la Ignicion
+INFO [2024-01-17T21:05:38.541138600] : Se inicio el Desacople
+INFO [2024-01-17T21:05:39.153832100] : Se inicio el Módulo 
+INFO [2024-01-17T21:05:39.764469600] : Se inicio la órbita
+INFO [2024-01-17T21:05:45.847089900] : Se pulso boton Start
+ERROR [2024-01-17T21:05:46.687516200] : Lanzamiento Cancelado
+INFO [2024-01-17T21:05:48.847540600] : Se pulso boton Start
+ERROR [2024-01-17T21:05:49.565408400] : Lanzamiento Cancelado
+INFO [2024-01-17T21:05:51.431875600] : Se pulso boton Start
+INFO [2024-01-17T21:05:55.567188600] : Se inicio la Ignicion
+INFO [2024-01-17T21:05:56.178266800] : Se inicio el Desacople
+INFO [2024-01-17T21:05:56.789404700] : Se inicio el Módulo 
+INFO [2024-01-17T21:05:57.398411800] : Se inicio la órbita
